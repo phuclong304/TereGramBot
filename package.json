@@ -5,6 +5,7 @@
   "scripts": {
     "start": "micro-bot -e",
     "lint": "eslint --ignore-path .gitignore ."
+  "build":"",
   },
   "keywords": [],
   "author": "",
