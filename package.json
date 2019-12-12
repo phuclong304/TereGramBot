@@ -4,8 +4,6 @@
   "description": "Simple telegram node bot with a few funny commands",
   "scripts": {
     "start": "micro-bot -e",
-    "lint": "eslint --ignore-path .gitignore ."
-  "build":"",
   },
   "keywords": [],
   "author": "",
